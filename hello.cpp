@@ -15,5 +15,6 @@ void main()
 	}
 	cout << sum << endl;
 	cout << "hello world!" << endl;
+	cout << "test Git Hub!" << endl;
 	return ;
 }
